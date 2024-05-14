@@ -36,6 +36,9 @@ Dois semáforos são utilizados:
 - `semaforo_cruzamento`: Controla o acesso ao cruzamento pelos carros. Quando um carro se aproxima do cruzamento, ele verifica se o semáforo está livre. Se estiver livre, o carro passa pelo cruzamento. Se não estiver livre, o carro aguarda na fila até sua vez.
 - `semaforo_cancela`: Controla o estado da cancela. Quando um trem se aproxima do cruzamento, ele adquire o semáforo para garantir que a cancela seja fechada. Após finalizar a travessia, o trem libera o semáforo para que a cancela seja aberta.
 
+## Video Demonstrativo
+
+https://youtu.be/ustrKh9d0x4
 
 ## Licença
 
